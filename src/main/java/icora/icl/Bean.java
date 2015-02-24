@@ -1,11 +1,8 @@
 package icora.icl;
-//modification pour rien
-//8888888888884444
-//<<<<<<< HEAD
-//////////
-//=======
-//555    t
-p
+//modificati
+
+test 3333333333333333333
+
 //>>>>>>> refs/heads/master
 public interface Bean {
 
