@@ -1,6 +1,6 @@
 package icora.icl;
 //modification pour rien
-//8888888888888888888
+//utiiiiiiiiiiiiiiiiiii2
 public interface Bean {
 
     boolean isABean();
