@@ -5,7 +5,7 @@ package icora.icl;
 //////////
 //=======
 //555  
-
+p
 //>>>>>>> refs/heads/master
 public interface Bean {
 
